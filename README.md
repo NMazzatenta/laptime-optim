@@ -2,7 +2,7 @@
 Lap time optimization analysis under energetic constraint
 
 # Disclaimer
-This code is a personal project and is not affiliated with, endorsed by, or connected to my current, or past employers, or any of its clients. 
+This code is a personal project and is not affiliated with, endorsed by, or connected to the author's current, or past employers, or any of their clients. 
 
 Any views or opinions expressed in this project are solely those of the author and do not represent those of the author's employer, its clients, or any organization the author may be associated with.
 
