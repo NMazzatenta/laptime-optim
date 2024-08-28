@@ -1,5 +1,5 @@
 # laptime-optim
-Lap time optimization analysis under energetic constraint
+Lap time minimization analysis under energetic constraints
 
 # Disclaimer
 This code is a personal project and is not affiliated with, endorsed by, or connected to the author's current, or past employers, or any of their clients. 
