@@ -1,5 +1,5 @@
 # laptime-optim
-Lap time minimization analysis under energetic constraints
+Lap time minimization s.t. energetic constraints with CasADi. See laptimeoptimization.pdf for more details.
 
 # Disclaimer
 This code is a personal project and is not affiliated with, endorsed by, or connected to the author's current, or past employers, or any of their clients. 
